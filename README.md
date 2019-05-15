@@ -1,19 +1,20 @@
 # Rohan
 
 ## Computing
-Wedneday 22nd @ 9am to 11am
+### Wedneday 22nd @ 9am to 11am
 
 2018 Past Paper
 2017 Past Paper
 2016 Past Paper
 
-SQA Page including external links
+[SQA Page including external links](https://www.sqa.org.uk/sqa/48477.html)
+
 
 
 
 
 ## Geography
-Tuesday 28th @ 1pm to 3.20pm
+### Tuesday 28th @ 1pm to 3.20pm
 
 2018 Past Paper
 2017 Past Paper

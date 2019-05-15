@@ -5,7 +5,7 @@
 
 1. 2018 Past Paper
 2. 2017 Past Paper
-3. 2016 Past Paper
+3. [Marking Instructions](docs/N5_Computing-Science_mi_2018markingInstructions.pdf)
 
 [SQA Page including external links](https://www.sqa.org.uk/sqa/48477.html)
 

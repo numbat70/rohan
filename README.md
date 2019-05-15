@@ -8,7 +8,7 @@
 3. [Marking Instructions](docs/N5_Computing-Science_mi_2018markingInstructions.pdf)
 4. [Specimen Paper](docs/ComputingScienceSQPRN5Specimen.pdf)
 
-[SQA Page including external links](https://www.sqa.org.uk/sqa/48477.html)
+[SQA Page including external links-Computing Science](https://www.sqa.org.uk/sqa/48477.html)
 
 - [Digital World](https://www.digitalworld.net)
 - [BBC resources for National 5 Computing Science](https://www.bbc.com/bitesize/subjects/zfs3kqt)
@@ -21,10 +21,16 @@
 ## Geography
 ### Tuesday 28th @ 1pm to 3.20pm
 
-1. 2018 Past Paper
+1. [2018 Past Paper]()
+2. [2018 Marking Instructions]()
+
+
 2. 2017 Past Paper
 3. 2016 Past Paper
 
+
+
+[SQA Page including external links-Geography](https://www.sqa.org.uk/sqa/47446.html)
 
 
 

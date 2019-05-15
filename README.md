@@ -6,6 +6,7 @@
 1. [2018 Past Paper](docs/N5_Computing-Science_QP_2018.pdf)
 2. [2017 Past Paper](docs/N5_Computing-Science_QP_2017.pdf)
 3. [Marking Instructions](docs/N5_Computing-Science_mi_2018markingInstructions.pdf)
+4. [Specimen Paper](docs/ComputingScienceSQPRN5Specimen.pdf)
 
 [SQA Page including external links](https://www.sqa.org.uk/sqa/48477.html)
 

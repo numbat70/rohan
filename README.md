@@ -1,7 +1,7 @@
 # Rohan
 
 ##Computing
-We dneday 22nd @ 9am to 11am
+Wedneday 22nd @ 9am to 11am
 
 
 

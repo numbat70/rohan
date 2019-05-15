@@ -21,8 +21,8 @@
 ## Geography
 ### Tuesday 28th @ 1pm to 3.20pm
 
-1. [2018 Past Paper]()
-2. [2018 Marking Instructions]()
+1. [2018 Past Paper](docs/N5_Geography_all_2018.pdf)
+2. [2018 Marking Instructions](docs/N5_Geography_mi_2018marking.pdf)
 
 
 
